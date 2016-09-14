@@ -15,7 +15,7 @@ I'm using Node.js version 0.12.3 if you'd like to install the version I'm using.
 Open a terminal and enter the following commands:
 
 1. `$ git clone https://github.com/SageBerg/satellite-location-stream.git`
-2. `$ cd path/to/satellite-location-stream`
+2. `$ cd satellite-location-stream`
 3. `$ node consumer.js 25544 1`
 
 Now the program should be streaming data about the location and
@@ -26,7 +26,7 @@ hitting the API.
 
 ##How to test
 1. `$ git clone https://github.com/SageBerg/satellite-location-stream.git`
-2. `$ cd path/to/satellite-location-stream`
+2. `$ cd satellite-location-stream`
 3. `$ sudo npm install`
 4. `$ mocha`
 

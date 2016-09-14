@@ -1,0 +1,26 @@
+{
+  "name": "satellite-location-stream",
+  "version": "1.0.0",
+  "description": "A work sample",
+  "main": "SatelliteLocationStream.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SageBerg/satellite-location-stream.git"
+  },
+  "author": "Sage Berg",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/SageBerg/satellite-location-stream/issues"
+  },
+  "homepage": "https://github.com/SageBerg/satellite-location-stream#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
